@@ -34,7 +34,7 @@ const Profile = () => {
         try {
             const response = await axios.put(`/apiRoutes/userRoutes/updateUser/${User._id}`, userData)
             alert(response.data.message)
-            // Navigate('/login', { replace: true });
+            Navigate('/login', { replace: true });
 
         } catch (err) {
             console.log(err);
