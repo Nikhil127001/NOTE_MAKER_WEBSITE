@@ -1,0 +1,44 @@
+.loginInput {
+    width: 75%;
+    font-size: 12px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border : 0.5px solid rgb(165, 165, 165);
+    height: 30px;
+    justify-content: center;
+  }
+.signupinput {
+    width: 75%;
+    font-size: 12px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border : 0.5px solid rgb(165, 165, 165);
+    height: 30px;
+    justify-content: center;
+  }
+.loginInput {
+    width: 75%;
+    font-size: 12px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border : 0.5px solid rgb(165, 165, 165);
+    height: 30px;
+    justify-content: center;
+  }
+.loginInput:focus{
+    outline: none;
+}
+/* style={{width:"25px", height: "25px", marginRight: "7px", marginTop: "5px", marginBottom: "5px"}} */
+
+.Icons{
+    width: 25px;
+    height: 25px;
+    margin-right: 7px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.footerLi{
+    padding: 7px;
+    font-size:12px ;
+}
